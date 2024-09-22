@@ -1,0 +1,202 @@
+Programming Tasks from https://rosettacode.org/wiki/Category:Programming_Tasks
+
+<li><a href="/wiki/100_doors" title="100 doors">100 doors</a></li>
+<li><a href="/wiki/100_prisoners" title="100 prisoners">100 prisoners</a></li>
+<li><a href="/wiki/15_puzzle_game" title="15 puzzle game">15 puzzle game</a></li>
+<li><a href="/wiki/15_puzzle_solver" title="15 puzzle solver">15 puzzle solver</a></li></ul></div><div class="mw-category-group"><h3>2</h3>
+<ul><li><a href="/wiki/2048" title="2048">2048</a></li>
+<li><a href="/wiki/21_game" title="21 game">21 game</a></li>
+<li><a href="/wiki/24_game" title="24 game">24 game</a></li>
+<li><a href="/wiki/24_game/Solve" title="24 game/Solve">24 game/Solve</a></li></ul></div><div class="mw-category-group"><h3>4</h3>
+<ul><li><a href="/wiki/4-rings_or_4-squares_puzzle" title="4-rings or 4-squares puzzle">4-rings or 4-squares puzzle</a></li></ul></div><div class="mw-category-group"><h3>9</h3>
+<ul><li><a href="/wiki/9_billion_names_of_God_the_integer" title="9 billion names of God the integer">9 billion names of God the integer</a></li>
+<li><a href="/wiki/99_bottles_of_beer" title="99 bottles of beer">99 bottles of beer</a></li></ul></div><div class="mw-category-group"><h3>A</h3>
+<ul><li><a href="/wiki/A%2BB" title="A+B">A+B</a></li>
+<li><a href="/wiki/Abbreviations,_automatic" title="Abbreviations, automatic">Abbreviations, automatic</a></li>
+<li><a href="/wiki/Abbreviations,_easy" title="Abbreviations, easy">Abbreviations, easy</a></li>
+<li><a href="/wiki/Abbreviations,_simple" title="Abbreviations, simple">Abbreviations, simple</a></li>
+<li><a href="/wiki/ABC_correlation" title="ABC correlation">ABC correlation</a></li>
+<li><a href="/wiki/ABC_problem" title="ABC problem">ABC problem</a></li>
+<li><a href="/wiki/ABC_words" title="ABC words">ABC words</a></li>
+<li><a href="/wiki/Abelian_sandpile_model" title="Abelian sandpile model">Abelian sandpile model</a></li>
+<li><a href="/wiki/Abelian_sandpile_model/Identity" title="Abelian sandpile model/Identity">Abelian sandpile model/Identity</a></li>
+<li><a href="/wiki/Abstract_type" title="Abstract type">Abstract type</a></li>
+<li><a href="/wiki/Abundant_odd_numbers" title="Abundant odd numbers">Abundant odd numbers</a></li>
+<li><a href="/wiki/Abundant,_deficient_and_perfect_number_classifications" title="Abundant, deficient and perfect number classifications">Abundant, deficient and perfect number classifications</a></li>
+<li><a href="/wiki/Accumulator_factory" title="Accumulator factory">Accumulator factory</a></li>
+<li><a href="/wiki/Achilles_numbers" title="Achilles numbers">Achilles numbers</a></li>
+<li><a href="/wiki/Ackermann_function" title="Ackermann function">Ackermann function</a></li>
+<li><a href="/wiki/Active_Directory/Connect" title="Active Directory/Connect">Active Directory/Connect</a></li>
+<li><a href="/wiki/Active_Directory/Search_for_a_user" title="Active Directory/Search for a user">Active Directory/Search for a user</a></li>
+<li><a href="/wiki/Active_object" title="Active object">Active object</a></li>
+<li><a href="/wiki/Add_a_variable_to_a_class_instance_at_runtime" title="Add a variable to a class instance at runtime">Add a variable to a class instance at runtime</a></li>
+<li><a href="/wiki/Additive_primes" title="Additive primes">Additive primes</a></li>
+<li><a href="/wiki/Address_of_a_variable" title="Address of a variable">Address of a variable</a></li>
+<li><a href="/wiki/ADFGVX_cipher" title="ADFGVX cipher">ADFGVX cipher</a></li>
+<li><a href="/wiki/AKS_test_for_primes" title="AKS test for primes">AKS test for primes</a></li>
+<li><a href="/wiki/Algebraic_data_types" title="Algebraic data types">Algebraic data types</a></li>
+<li><a href="/wiki/Align_columns" title="Align columns">Align columns</a></li>
+<li><a href="/wiki/Aliquot_sequence_classifications" title="Aliquot sequence classifications">Aliquot sequence classifications</a></li>
+<li><a href="/wiki/Almkvist-Giullera_formula_for_pi" title="Almkvist-Giullera formula for pi">Almkvist-Giullera formula for pi</a></li>
+<li><a href="/wiki/Almost_prime" title="Almost prime">Almost prime</a></li>
+<li><a href="/wiki/Amb" title="Amb">Amb</a></li>
+<li><a href="/wiki/Amicable_pairs" title="Amicable pairs">Amicable pairs</a></li>
+<li><a href="/wiki/Anadromes" title="Anadromes">Anadromes</a></li>
+<li><a href="/wiki/Anagram_generator" title="Anagram generator">Anagram generator</a></li>
+<li><a href="/wiki/Anagrams" title="Anagrams">Anagrams</a></li>
+<li><a href="/wiki/Anagrams/Deranged_anagrams" title="Anagrams/Deranged anagrams">Anagrams/Deranged anagrams</a></li>
+<li><a href="/wiki/Anaprimes" title="Anaprimes">Anaprimes</a></li>
+<li><a href="/wiki/Angle_difference_between_two_bearings" title="Angle difference between two bearings">Angle difference between two bearings</a></li>
+<li><a href="/wiki/Angles_(geometric),_normalization_and_conversion" title="Angles (geometric), normalization and conversion">Angles (geometric), normalization and conversion</a></li>
+<li><a href="/wiki/Animate_a_pendulum" title="Animate a pendulum">Animate a pendulum</a></li>
+<li><a href="/wiki/Animation" title="Animation">Animation</a></li>
+<li><a href="/wiki/Anonymous_recursion" title="Anonymous recursion">Anonymous recursion</a></li>
+<li><a href="/wiki/Anti-primes" title="Anti-primes">Anti-primes</a></li>
+<li><a href="/wiki/Append_a_record_to_the_end_of_a_text_file" title="Append a record to the end of a text file">Append a record to the end of a text file</a></li>
+<li><a href="/wiki/Apply_a_callback_to_an_array" title="Apply a callback to an array">Apply a callback to an array</a></li>
+<li><a href="/wiki/Apply_a_digital_filter_(direct_form_II_transposed)" title="Apply a digital filter (direct form II transposed)">Apply a digital filter (direct form II transposed)</a></li>
+<li><a href="/wiki/Approximate_equality" title="Approximate equality">Approximate equality</a></li>
+<li><a href="/wiki/Ap%C3%A9ry%27s_constant" title="Apéry&#039;s constant">Apéry&#039;s constant</a></li>
+<li><a href="/wiki/Arbitrary-precision_integers_(included)" title="Arbitrary-precision integers (included)">Arbitrary-precision integers (included)</a></li>
+<li><a href="/wiki/Archimedean_spiral" title="Archimedean spiral">Archimedean spiral</a></li>
+<li><a href="/wiki/Arena_storage_pool" title="Arena storage pool">Arena storage pool</a></li>
+<li><a href="/wiki/Arithmetic_derivative" title="Arithmetic derivative">Arithmetic derivative</a></li>
+<li><a href="/wiki/Arithmetic_evaluation" title="Arithmetic evaluation">Arithmetic evaluation</a></li>
+<li><a href="/wiki/Arithmetic_numbers" title="Arithmetic numbers">Arithmetic numbers</a></li>
+<li><a href="/wiki/Arithmetic-geometric_mean" title="Arithmetic-geometric mean">Arithmetic-geometric mean</a></li>
+<li><a href="/wiki/Arithmetic-geometric_mean/Calculate_Pi" title="Arithmetic-geometric mean/Calculate Pi">Arithmetic-geometric mean/Calculate Pi</a></li>
+<li><a href="/wiki/Arithmetic/Complex" title="Arithmetic/Complex">Arithmetic/Complex</a></li>
+<li><a href="/wiki/Arithmetic/Integer" title="Arithmetic/Integer">Arithmetic/Integer</a></li>
+<li><a href="/wiki/Arithmetic/Rational" title="Arithmetic/Rational">Arithmetic/Rational</a></li>
+<li><a href="/wiki/Array_concatenation" title="Array concatenation">Array concatenation</a></li>
+<li><a href="/wiki/Array_length" title="Array length">Array length</a></li>
+<li><a href="/wiki/Arrays" title="Arrays">Arrays</a></li>
+<li><a href="/wiki/Ascending_primes" title="Ascending primes">Ascending primes</a></li>
+<li><a href="/wiki/ASCII_art_diagram_converter" title="ASCII art diagram converter">ASCII art diagram converter</a></li>
+<li><a href="/wiki/Assertions" title="Assertions">Assertions</a></li>
+<li><a href="/wiki/Associative_array/Creation" title="Associative array/Creation">Associative array/Creation</a></li>
+<li><a href="/wiki/Associative_array/Iteration" title="Associative array/Iteration">Associative array/Iteration</a></li>
+<li><a href="/wiki/Associative_array/Merging" title="Associative array/Merging">Associative array/Merging</a></li>
+<li><a href="/wiki/Atomic_updates" title="Atomic updates">Atomic updates</a></li>
+<li><a href="/wiki/Attractive_numbers" title="Attractive numbers">Attractive numbers</a></li>
+<li><a href="/wiki/Average_loop_length" title="Average loop length">Average loop length</a></li>
+<li><a href="/wiki/Averages/Arithmetic_mean" title="Averages/Arithmetic mean">Averages/Arithmetic mean</a></li>
+<li><a href="/wiki/Averages/Mean_angle" title="Averages/Mean angle">Averages/Mean angle</a></li>
+<li><a href="/wiki/Averages/Mean_time_of_day" title="Averages/Mean time of day">Averages/Mean time of day</a></li>
+<li><a href="/wiki/Averages/Median" title="Averages/Median">Averages/Median</a></li>
+<li><a href="/wiki/Averages/Mode" title="Averages/Mode">Averages/Mode</a></li>
+<li><a href="/wiki/Averages/Pythagorean_means" title="Averages/Pythagorean means">Averages/Pythagorean means</a></li>
+<li><a href="/wiki/Averages/Root_mean_square" title="Averages/Root mean square">Averages/Root mean square</a></li>
+<li><a href="/wiki/Averages/Simple_moving_average" title="Averages/Simple moving average">Averages/Simple moving average</a></li>
+<li><a href="/wiki/AVL_tree" title="AVL tree">AVL tree</a></li></ul></div><div class="mw-category-group"><h3>B</h3>
+<ul><li><a href="/wiki/Babbage_problem" title="Babbage problem">Babbage problem</a></li>
+<li><a href="/wiki/Babylonian_spiral" title="Babylonian spiral">Babylonian spiral</a></li>
+<li><a href="/wiki/Balanced_brackets" title="Balanced brackets">Balanced brackets</a></li>
+<li><a href="/wiki/Balanced_ternary" title="Balanced ternary">Balanced ternary</a></li>
+<li><a href="/wiki/Barnsley_fern" title="Barnsley fern">Barnsley fern</a></li>
+<li><a href="/wiki/Base64_decode_data" title="Base64 decode data">Base64 decode data</a></li>
+<li><a href="/wiki/Bell_numbers" title="Bell numbers">Bell numbers</a></li>
+<li><a href="/wiki/Benford%27s_law" title="Benford&#039;s law">Benford&#039;s law</a></li>
+<li><a href="/wiki/Bernoulli_numbers" title="Bernoulli numbers">Bernoulli numbers</a></li>
+<li><a href="/wiki/Bernstein_basis_polynomials" title="Bernstein basis polynomials">Bernstein basis polynomials</a></li>
+<li><a href="/wiki/Best_shuffle" title="Best shuffle">Best shuffle</a></li>
+<li><a href="/wiki/Bifid_cipher" title="Bifid cipher">Bifid cipher</a></li>
+<li><a href="/wiki/Bin_given_limits" title="Bin given limits">Bin given limits</a></li>
+<li><a href="/wiki/Binary_digits" title="Binary digits">Binary digits</a></li>
+<li><a href="/wiki/Binary_search" title="Binary search">Binary search</a></li>
+<li><a href="/wiki/Binary_strings" title="Binary strings">Binary strings</a></li>
+<li><a href="/wiki/Binomial_transform" title="Binomial transform">Binomial transform</a></li>
+<li><a href="/wiki/Bioinformatics/base_count" title="Bioinformatics/base count">Bioinformatics/base count</a></li>
+<li><a href="/wiki/Bioinformatics/Global_alignment" title="Bioinformatics/Global alignment">Bioinformatics/Global alignment</a></li>
+<li><a href="/wiki/Bioinformatics/Sequence_mutation" title="Bioinformatics/Sequence mutation">Bioinformatics/Sequence mutation</a></li>
+<li><a href="/wiki/Biorhythms" title="Biorhythms">Biorhythms</a></li>
+<li><a href="/wiki/Bitcoin/address_validation" title="Bitcoin/address validation">Bitcoin/address validation</a></li>
+<li><a href="/wiki/Bitcoin/public_point_to_address" title="Bitcoin/public point to address">Bitcoin/public point to address</a></li>
+<li><a href="/wiki/Bitmap" title="Bitmap">Bitmap</a></li>
+<li><a href="/wiki/Bitmap/Bresenham%27s_line_algorithm" title="Bitmap/Bresenham&#039;s line algorithm">Bitmap/Bresenham&#039;s line algorithm</a></li>
+<li><a href="/wiki/Bitmap/B%C3%A9zier_curves/Cubic" title="Bitmap/Bézier curves/Cubic">Bitmap/Bézier curves/Cubic</a></li>
+<li><a href="/wiki/Bitmap/B%C3%A9zier_curves/Quadratic" title="Bitmap/Bézier curves/Quadratic">Bitmap/Bézier curves/Quadratic</a></li>
+<li><a href="/wiki/Bitmap/Flood_fill" title="Bitmap/Flood fill">Bitmap/Flood fill</a></li>
+<li><a href="/wiki/Bitmap/Histogram" title="Bitmap/Histogram">Bitmap/Histogram</a></li>
+<li><a href="/wiki/Bitmap/Midpoint_circle_algorithm" title="Bitmap/Midpoint circle algorithm">Bitmap/Midpoint circle algorithm</a></li>
+<li><a href="/wiki/Bitmap/PPM_conversion_through_a_pipe" title="Bitmap/PPM conversion through a pipe">Bitmap/PPM conversion through a pipe</a></li>
+<li><a href="/wiki/Bitmap/Read_a_PPM_file" title="Bitmap/Read a PPM file">Bitmap/Read a PPM file</a></li>
+<li><a href="/wiki/Bitmap/Read_an_image_through_a_pipe" title="Bitmap/Read an image through a pipe">Bitmap/Read an image through a pipe</a></li>
+<li><a href="/wiki/Bitmap/Write_a_PPM_file" title="Bitmap/Write a PPM file">Bitmap/Write a PPM file</a></li>
+<li><a href="/wiki/Bitwise_IO" title="Bitwise IO">Bitwise IO</a></li>
+<li><a href="/wiki/Bitwise_operations" title="Bitwise operations">Bitwise operations</a></li>
+<li><a href="/wiki/Blum_integer" title="Blum integer">Blum integer</a></li>
+<li><a href="/wiki/Boolean_values" title="Boolean values">Boolean values</a></li>
+<li><a href="/wiki/Boustrophedon_transform" title="Boustrophedon transform">Boustrophedon transform</a></li>
+<li><a href="/wiki/Box_the_compass" title="Box the compass">Box the compass</a></li>
+<li><a href="/wiki/Boyer-Moore_string_search" title="Boyer-Moore string search">Boyer-Moore string search</a></li>
+<li><a href="/wiki/Brace_expansion" title="Brace expansion">Brace expansion</a></li>
+<li><a href="/wiki/Brazilian_numbers" title="Brazilian numbers">Brazilian numbers</a></li>
+<li><a href="/wiki/Break_OO_privacy" title="Break OO privacy">Break OO privacy</a></li>
+<li><a href="/wiki/Brilliant_numbers" title="Brilliant numbers">Brilliant numbers</a></li>
+<li><a href="/wiki/Brownian_tree" title="Brownian tree">Brownian tree</a></li>
+<li><a href="/wiki/Bulls_and_cows" title="Bulls and cows">Bulls and cows</a></li>
+<li><a href="/wiki/Bulls_and_cows/Player" title="Bulls and cows/Player">Bulls and cows/Player</a></li>
+<li><a href="/wiki/Burrows%E2%80%93Wheeler_transform" title="Burrows–Wheeler transform">Burrows–Wheeler transform</a></li>
+<li><a href="/wiki/B%C3%A9zier_curves/Intersections" title="Bézier curves/Intersections">Bézier curves/Intersections</a></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<ul><li><a href="/wiki/Caesar_cipher" title="Caesar cipher">Caesar cipher</a></li>
+<li><a href="/wiki/Calculating_the_value_of_e" title="Calculating the value of e">Calculating the value of e</a></li>
+<li><a href="/wiki/Calendar" title="Calendar">Calendar</a></li>
+<li><a href="/wiki/Calendar_-_for_%22REAL%22_programmers" title="Calendar - for &quot;REAL&quot; programmers">Calendar - for &quot;REAL&quot; programmers</a></li>
+<li><a href="/wiki/Calkin-Wilf_sequence" title="Calkin-Wilf sequence">Calkin-Wilf sequence</a></li>
+<li><a href="/wiki/Call_a_foreign-language_function" title="Call a foreign-language function">Call a foreign-language function</a></li>
+<li><a href="/wiki/Call_a_function" title="Call a function">Call a function</a></li>
+<li><a href="/wiki/Call_a_function_in_a_shared_library" title="Call a function in a shared library">Call a function in a shared library</a></li>
+<li><a href="/wiki/Call_an_object_method" title="Call an object method">Call an object method</a></li>
+<li><a href="/wiki/Camel_case_and_snake_case" title="Camel case and snake case">Camel case and snake case</a></li>
+<li><a href="/wiki/Canny_edge_detector" title="Canny edge detector">Canny edge detector</a></li>
+<li><a href="/wiki/Canonicalize_CIDR" title="Canonicalize CIDR">Canonicalize CIDR</a></li>
+<li><a href="/wiki/Cantor_set" title="Cantor set">Cantor set</a></li>
+<li><a href="/wiki/Carmichael_3_strong_pseudoprimes" title="Carmichael 3 strong pseudoprimes">Carmichael 3 strong pseudoprimes</a></li>
+<li><a href="/wiki/Cartesian_product_of_two_or_more_lists" title="Cartesian product of two or more lists">Cartesian product of two or more lists</a></li>
+<li><a href="/wiki/Case-sensitivity_of_identifiers" title="Case-sensitivity of identifiers">Case-sensitivity of identifiers</a></li>
+<li><a href="/wiki/Casting_out_nines" title="Casting out nines">Casting out nines</a></li>
+<li><a href="/wiki/Catalan_numbers" title="Catalan numbers">Catalan numbers</a></li>
+<li><a href="/wiki/Catalan_numbers/Pascal%27s_triangle" title="Catalan numbers/Pascal&#039;s triangle">Catalan numbers/Pascal&#039;s triangle</a></li>
+<li><a href="/wiki/Catamorphism" title="Catamorphism">Catamorphism</a></li>
+<li><a href="/wiki/Catmull%E2%80%93Clark_subdivision_surface" title="Catmull–Clark subdivision surface">Catmull–Clark subdivision surface</a></li>
+<li><a href="/wiki/Centre_and_radius_of_a_circle_passing_through_3_points_in_a_plane" title="Centre and radius of a circle passing through 3 points in a plane">Centre and radius of a circle passing through 3 points in a plane</a></li>
+<li><a href="/wiki/Chaocipher" title="Chaocipher">Chaocipher</a></li>
+<li><a href="/wiki/Chaos_game" title="Chaos game">Chaos game</a></li>
+<li><a href="/wiki/Character_codes" title="Character codes">Character codes</a></li>
+<li><a href="/wiki/Chat_server" title="Chat server">Chat server</a></li>
+<li><a href="/wiki/Check_if_a_polygon_overlaps_with_a_rectangle" title="Check if a polygon overlaps with a rectangle">Check if a polygon overlaps with a rectangle</a></li>
+<li><a href="/wiki/Check_if_two_polygons_overlap" title="Check if two polygons overlap">Check if two polygons overlap</a></li>
+<li><a href="/wiki/Check_input_device_is_a_terminal" title="Check input device is a terminal">Check input device is a terminal</a></li>
+<li><a href="/wiki/Check_Machin-like_formulas" title="Check Machin-like formulas">Check Machin-like formulas</a></li>
+<li><a href="/wiki/Check_output_device_is_a_terminal" title="Check output device is a terminal">Check output device is a terminal</a></li>
+<li><a href="/wiki/Check_that_file_exists" title="Check that file exists">Check that file exists</a></li>
+<li><a href="/wiki/Checkpoint_synchronization" title="Checkpoint synchronization">Checkpoint synchronization</a></li>
+<li><a href="/wiki/Chernick%27s_Carmichael_numbers" title="Chernick&#039;s Carmichael numbers">Chernick&#039;s Carmichael numbers</a></li>
+<li><a href="/wiki/Cheryl%27s_birthday" title="Cheryl&#039;s birthday">Cheryl&#039;s birthday</a></li>
+<li><a href="/wiki/Chinese_remainder_theorem" title="Chinese remainder theorem">Chinese remainder theorem</a></li>
+<li><a href="/wiki/Chinese_zodiac" title="Chinese zodiac">Chinese zodiac</a></li>
+<li><a href="/wiki/Cholesky_decomposition" title="Cholesky decomposition">Cholesky decomposition</a></li>
+<li><a href="/wiki/Chowla_numbers" title="Chowla numbers">Chowla numbers</a></li>
+<li><a href="/wiki/Church_numerals" title="Church numerals">Church numerals</a></li>
+<li><a href="/wiki/Circles_of_given_radius_through_two_points" title="Circles of given radius through two points">Circles of given radius through two points</a></li>
+<li><a href="/wiki/Circular_primes" title="Circular primes">Circular primes</a></li>
+<li><a href="/wiki/Cistercian_numerals" title="Cistercian numerals">Cistercian numerals</a></li>
+<li><a href="/wiki/Classes" title="Classes">Classes</a></li>
+<li><a href="/wiki/Closest-pair_problem" title="Closest-pair problem">Closest-pair problem</a></li>
+<li><a href="/wiki/Closures/Value_capture" title="Closures/Value capture">Closures/Value capture</a></li>
+<li><a href="/wiki/Collections" title="Collections">Collections</a></li>
+<li><a href="/wiki/Color_of_a_screen_pixel" title="Color of a screen pixel">Color of a screen pixel</a></li>
+<li><a href="/wiki/Color_quantization" title="Color quantization">Color quantization</a></li>
+<li><a href="/wiki/Color_wheel" title="Color wheel">Color wheel</a></li>
+<li><a href="/wiki/Colorful_numbers" title="Colorful numbers">Colorful numbers</a></li>
+<li><a href="/wiki/Colour_bars/Display" title="Colour bars/Display">Colour bars/Display</a></li>
+<li><a href="/wiki/Colour_pinstripe/Display" title="Colour pinstripe/Display">Colour pinstripe/Display</a></li>
+<li><a href="/wiki/Colour_pinstripe/Printer" title="Colour pinstripe/Printer">Colour pinstripe/Printer</a></li>
+<li><a href="/wiki/Combinations" title="Combinations">Combinations</a></li>
+<li><a href="/wiki/Combinations_and_permutations" title="Combinations and permutations">Combinations and permutations</a></li>
+<li><a href="/wiki/Combinations_with_repetitions" title="Combinations with repetitions">Combinations with repetitions</a></li>
+<li><a href="/wiki/Comma_quibbling" title="Comma quibbling">Comma quibbling</a></li>
+<li><a href="/wiki/Command-line_arguments" title="Command-line arguments">Command-line arguments</a></li>
+<li><a href="/wiki/Commatizing_numbers" title="Commatizing numbers">Commatizing numbers</a></li>
+<li><a href="/wiki/Comments" title="Comments">Comments</a></li>
